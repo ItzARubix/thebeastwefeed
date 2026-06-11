@@ -36,4 +36,6 @@ The guard continued. "These three spilled out of the tunnel. They did not attack
 
 After a moment, the man relaxed, leaning forward and sizing up the drones. "What brings them to our side of the world, then?"
 
-"Well," the guard said, "they claimed..." He paused, licking his lips and taking a deep breath. "They _claimed_, that they might have the power to end our sacrifices to The Beast."
+"Well," the guard said, "they claimed..." He paused, licking his lips and taking a deep breath.
+
+"They _claimed_, that they might have the power to end our sacrifices to The Beast."
