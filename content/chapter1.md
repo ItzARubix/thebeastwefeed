@@ -6,7 +6,7 @@ weight = 1
 
 The tunnel was quiet, on this day of days.
 
-Dwell walked ahead, staring down the scope of the rifle that currently occupied his [right arm](@/weapons/high_drone_arm.md). His gaze kept sweeping back and forth across the tunnel's width.
+[Dwell](@/profiles/you_dont_talk_much.md) walked ahead, staring down the scope of the rifle that currently occupied his [right arm](@/weapons/high_drone_arm.md). His gaze kept sweeping back and forth across the tunnel's width.
 
 Angel flew above the group, her metal wings flapping rhythmically as she watched for any ambushes from behind.
 
@@ -53,3 +53,7 @@ The colonists gripped their weapons tighter as silhouettes appeared from within 
 The two colonists exchanged a look.
 
 "Celebrate. For today, your sacrifices to The Beast end."
+
+<br></br>
+
+[Our leaders will want to hear about this.](@/chapter2.md)
